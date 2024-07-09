@@ -1,13 +1,14 @@
-.font-and-size {
+.black,
+.yellow {
     font-family: Helvetica "Times New Roman" "sans-serif";
     font-size: 28px;
 }
-#black {
+.black {
     background-color: black;
     color: white;
 }
 
-#yellow {
+.yellow {
     background-color: yellow;
     color: black;
 }
